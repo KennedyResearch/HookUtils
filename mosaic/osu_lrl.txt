@@ -1,0 +1,11 @@
+DEFAULT PARAMETERS FOR MOSAICKING TOOL
+
+Parameter Name; Variable Name; Parameter Value
+
+Root Directories; rootDir;/projectnb/trenders/scenes
+Search Directories; searchDir; outputs/nbr/lt_labels,outputs/nbr/nbr_lt_labels
+Search Strings; searchStrings; *longest_recovery_mmu11_loose.bsq
+Bands; bands; 1,2,3
+Landsat Path/Rows (ppprrr, seq. order); pathRows; 44/31-32, 45/28-31, 46/28-30
+Output Directory; outputDir; /projectnb/trenders/hook_utils/mosaic/test_scenes/osu_lrl
+Output Mosaic; outMosaic; longest_recovery_mmu11_loose_mosaic

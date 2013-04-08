@@ -1,0 +1,16 @@
+ENVI
+description = {
+r40028.bsq}
+samples = 4881
+lines   = 6200
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+byte order = 0
+map info = {Albers Conical Equal Area, 1, 1, -1394370.0, 2772240.0, 30, 30,North America 1927}
+projection info = {9, 6378206.4, 6356583.799998981, 23, -96, 0, 0, 29.5, 45.5,North America 1927, Albers Conical Equal Area}
+coordinate system string = {PROJCS["NAD_1927_Albers",GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.017453292519943295]],PROJECTION["Albers"],PARAMETER["False_Easting",0.0],PARAMETER["False_Northing",0.0],PARAMETER["central_meridian",-96.0],PARAMETER["Standard_Parallel_1",29.5],PARAMETER["Standard_Parallel_2",45.5],PARAMETER["latitude_of_origin",23.0],UNIT["Meter",1.0]]}
+band names = {
+Band 1}
